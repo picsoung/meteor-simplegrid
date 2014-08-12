@@ -1,3 +1,3 @@
-[submodule "simple-grid"]
-	path = simple-grid
+[submodule "simplegrid"]
+	path = simplegrid
 	url = https://github.com/ThisIsDallas/Simple-Grid.git
