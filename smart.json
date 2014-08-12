@@ -1,0 +1,8 @@
+{
+	"name": "simplegrid",
+	"description": "Latest version of Simplegrid, packaged for Meteor",
+	"homepage": "https://github.com/picsoung/meteor-simplegrid",
+	"author": "Nicolas Grenie",
+	"version": "1.0.0",
+	"git": "https://github.com/picsoung/meteor-simplegrid.git"
+}
